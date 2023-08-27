@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```java
+```rust
 From: 04 April 2023 - To: 26 August 2023
 
 Total Time: 59 hrs 9 mins
