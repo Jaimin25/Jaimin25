@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Jaimin (CJ)</h1>
 <h3 align="center">A Passionate Programmer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaimin25&label=Profile%20views&color=0e75b6&style=flat" alt="jaimin25" /><a href="https://wakatime.com/@b2a7cf30-099b-4a62-be11-c3b7dc700323"><img src="https://wakatime.com/badge/user/b2a7cf30-099b-4a62-be11-c3b7dc700323.svg" alt="Total time coded since Apr 5 2023" /></a> </p>
+<p align="center"> <a href="https://wakatime.com/@b2a7cf30-099b-4a62-be11-c3b7dc700323"><img src="https://wakatime.com/badge/user/b2a7cf30-099b-4a62-be11-c3b7dc700323.svg" alt="Total time coded since Apr 5 2023" /></a> </p>
 
 
 - 🔭 I’m currently working on **404**
@@ -41,3 +41,5 @@ Other                  19 mins         ▒▒▒▒▒▒▒▒▒▒▒▒▒�
 ```
 
 <!--END_SECTION:waka-->
+
+<img src="https://komarev.com/ghpvc/?username=jaimin25&label=Profile%20views&color=0e75b6&style=flat" alt="jaimin25" />
