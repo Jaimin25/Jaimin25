@@ -9,11 +9,8 @@
 - 📫 You can contact me through my social media profiles    .
 
 <h3 align="left">I'm using:</h3>
-<p align="left">
-<a href="https://twitter.com/jaimin_chovatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaimin_chovatia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in//jaimin-chovatia-63a8ab255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/jaimin-chovatia-63a8ab255" height="30" width="40" /></a>
-<a href="https://instagram.com/jaimin_chovatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaimin_chovatia" height="30" width="40" /></a>
-</p>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaimin_chovatia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//jaimin-chovatia-63a8ab255) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jaimin_chovatia) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cjcreations5172) 
 
 <h3 align="left">Familiar with:</h3>
 
