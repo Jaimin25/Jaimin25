@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **404**
 
-- 🌱 I’m currently learning **Nextjs, TailwindCSS**
+- 🌱 I’m currently learning **Next.js, Node.js**
 
 - 📫 You can contact me through my social media profiles    .
 
