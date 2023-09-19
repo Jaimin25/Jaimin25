@@ -20,14 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 April 2023 - To: 17 September 2023
+From: 04 April 2023 - To: 18 September 2023
 
-Total Time: 87 hrs 1 min
+Total Time: 87 hrs 4 mins
 
-JavaScript             49 hrs 40 mins  ██████████████▒▒▒▒▒▒▒▒▒▒▒   56.84 %
-Java                   15 hrs 15 mins  ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   17.46 %
-CSS                    5 hrs 32 mins   ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   06.35 %
-Python                 5 hrs 24 mins   ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   06.19 %
+JavaScript             49 hrs 42 mins  ██████████████▒▒▒▒▒▒▒▒▒▒▒   56.86 %
+Java                   15 hrs 15 mins  ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   17.45 %
+CSS                    5 hrs 32 mins   ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   06.34 %
+Python                 5 hrs 24 mins   ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   06.18 %
 XML                    4 hrs 59 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   05.70 %
 HTML                   2 hrs 25 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.77 %
 PHP                    1 hr 14 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   01.43 %
