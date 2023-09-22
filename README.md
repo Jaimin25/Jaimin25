@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Jaimin (CJ)</h1>
 <h3 align="center">A Passionate Programmer :)</h3>
 
-
 - 🔭 I’m currently working on **404**
 - 
 
