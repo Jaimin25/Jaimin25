@@ -19,18 +19,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 April 2023 - To: 28 September 2023
+From: 04 April 2023 - To: 29 September 2023
 
-Total Time: 103 hrs 19 mins
+Total Time: 111 hrs 10 mins
 
-JavaScript             65 hrs 17 mins  ████████████████▒▒▒▒▒▒▒▒▒   62.53 %
-Java                   15 hrs 15 mins  ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   14.61 %
-CSS                    5 hrs 47 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   05.55 %
-Python                 5 hrs 24 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   05.18 %
-XML                    4 hrs 59 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   04.78 %
-HTML                   2 hrs 25 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.32 %
-PHP                    1 hr 14 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   01.19 %
-Other                  1 hr 5 mins     ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   01.04 %
+JavaScript             73 hrs 7 mins   ████████████████▒▒▒▒▒▒▒▒▒   65.15 %
+Java                   15 hrs 15 mins  ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   13.59 %
+CSS                    5 hrs 47 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   05.16 %
+Python                 5 hrs 24 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   04.81 %
+XML                    4 hrs 59 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   04.45 %
+HTML                   2 hrs 25 mins   █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   02.15 %
+PHP                    1 hr 14 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   01.11 %
+Other                  1 hr 5 mins     ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   00.97 %
 ```
 
 <!--END_SECTION:waka-->
