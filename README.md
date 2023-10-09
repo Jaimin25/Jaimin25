@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, Node.js**
 
-- 📫 You can contact me through my social media profiles
-- 
+- 📫 You can contact me through my social media profile
 
 <h3 align="left">I'm using:</h3>
 
