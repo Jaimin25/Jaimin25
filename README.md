@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **404**
 
-- 🌱 I’m currently learning **Next.js, Node.js**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 You can contact me through my social media profiles
 
