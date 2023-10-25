@@ -42,9 +42,3 @@ Other                  1 hr 40 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒�
 <h3 align="left">Hacktoberfest:</h3>
 
 [![An image of @jaimin25's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaimin25)](https://holopin.io/@jaimin25)
-
-
-<img src="https://komarev.com/ghpvc/?username=jaimin25&label=Profile%20views&color=0e75b6&style=flat" alt="jaimin25" />
-
-
-
