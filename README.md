@@ -41,6 +41,8 @@ Other                  1 hr 40 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒�
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaimin25&theme=tokyonight&hide_border=true" />
-
+<p>
+  
+![jaimin25's Stats](https://github-readme-stats.vercel.app/api?username=jaimin25&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+</p>
 </p>
