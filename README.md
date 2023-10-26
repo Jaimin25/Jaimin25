@@ -38,3 +38,9 @@ Other                  1 hr 40 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒�
 <h3 align="left">Hacktoberfest:</h3>
 
 [![An image of @jaimin25's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaimin25)](https://holopin.io/@jaimin25)
+
+<p align="left">
+
+![jaimin25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaimin25&theme=tokyonight&hide_border=true)
+
+</p>
