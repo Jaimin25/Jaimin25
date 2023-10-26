@@ -39,7 +39,7 @@ Other                  1 hr 40 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒�
 
 [![An image of @jaimin25's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaimin25)](https://holopin.io/@jaimin25)
 
-<p align="left">
+<p align="center">
 
 ![jaimin25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaimin25&theme=tokyonight&hide_border=true)
 
