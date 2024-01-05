@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jaimin (CJ)</h1>
-<h3>I have a keen interest in exploring new technologies and expanding my knowledge in the field of computers</h3>
+<h3>I have a keen interest in exploring new technologies and expanding my knowledge in the field of computers.</h3>
 
 **<h3 align="left"> I'm using: </h3>**
 
