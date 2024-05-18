@@ -21,16 +21,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-917.8%20thousand%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                722 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-🌆 Daytime                827 commits         ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-🌃 Evening                2130 commits        ██████████████░░░░░░░░░░░   56.97 % 
-🌙 Night                  60 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -68,10 +58,6 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Jaimin25/Jaimin25/main/assets/bar_graph.png)
-
-
- Last Updated on 18/05/2024 06:28:18 UTC
+ Last Updated on 18/05/2024 06:37:37 UTC
 <!--END_SECTION:waka-->
