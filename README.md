@@ -17,9 +17,6 @@
 **<h3 align="left">Stats:</h3>**
 
 <!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/b2a7cf30-099b-4a62-be11-c3b7dc700323.svg)](https://wakatime.com/@b2a7cf30-099b-4a62-be11-c3b7dc700323)
-![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2039%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-917.8%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -47,18 +44,6 @@ Unknown Project          12 mins             ░░░░░░░░░░░�
 Linux                    53 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
 
-```text
-JavaScript               21 repos            ██████████░░░░░░░░░░░░░░░   40.38 % 
-TypeScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-```
-
-
-
-
- Last Updated on 18/05/2024 06:37:37 UTC
+ Last Updated on 18/05/2024 06:43:10 UTC
 <!--END_SECTION:waka-->
