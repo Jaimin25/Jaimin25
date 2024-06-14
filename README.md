@@ -19,7 +19,7 @@
 [![wakatime](https://wakatime.com/badge/user/b2a7cf30-099b-4a62-be11-c3b7dc700323.svg)](https://wakatime.com/@b2a7cf30-099b-4a62-be11-c3b7dc700323)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-899.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-899.6%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,19 +27,18 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 5 mins         █████████████████████████   100.00 % 
+TypeScript               18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   1 hr 5 mins         █████████████████████████   100.00 % 
+Neovim                   18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-claimit-backend          58 mins             ██████████████████████░░░   89.28 % 
-claimit-frontend         7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+claimit-backend          18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 5 mins         █████████████████████████   100.00 % 
+Linux                    18 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/06/2024 02:47:20 UTC
+ Last Updated on 14/06/2024 02:47:37 UTC
 <!--END_SECTION:waka-->
