@@ -27,20 +27,18 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TeX                      13 mins             ████████████████████████░   97.70 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          13 mins             █████████████████████████   98.76 % 
-claimit-backend          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/07/2024 02:49:04 UTC
+ Last Updated on 11/07/2024 02:50:22 UTC
 <!--END_SECTION:waka-->
