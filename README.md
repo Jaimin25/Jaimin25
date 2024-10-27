@@ -19,7 +19,7 @@
 [![wakatime](https://wakatime.com/badge/user/b2a7cf30-099b-4a62-be11-c3b7dc700323.svg)](https://wakatime.com/@b2a7cf30-099b-4a62-be11-c3b7dc700323)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-987.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-988.1%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,21 +27,18 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     21 mins             ███████████████░░░░░░░░░░   61.85 % 
-Bash                     9 mins              ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-TypeScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-claimit-backend          31 mins             ███████████████████████░░   92.89 % 
-claimit-frontend         2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 26/10/2024 03:03:39 UTC
+ Last Updated on 27/10/2024 03:10:20 UTC
 <!--END_SECTION:waka-->
