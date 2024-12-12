@@ -27,18 +27,20 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               17 mins             ████████████████░░░░░░░░░   64.99 % 
+C                        9 mins              █████████░░░░░░░░░░░░░░░░   35.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  27 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+grtminds                 17 mins             ████████████████░░░░░░░░░   64.99 % 
+Learning C               9 mins              █████████░░░░░░░░░░░░░░░░   35.01 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/12/2024 03:24:55 UTC
+ Last Updated on 12/12/2024 03:25:45 UTC
 <!--END_SECTION:waka-->
