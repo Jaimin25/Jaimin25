@@ -2,4 +2,4 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Jaimin25)
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,ts,js,java,py,tailwindcss,react,nextjs,nodejs,express,redis,postgres,mongodb,docker,git,neovim,vscode,androidstudio,blender,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,ts,js,java,py,tailwindcss,react,nextjs,nodejs,express,redis,postgres,mongodb,docker,git,neovim,vscode,androidstudio,blender,linux&perline=6)](https://skillicons.dev)
